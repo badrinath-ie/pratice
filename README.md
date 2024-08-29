@@ -1,2 +1,2 @@
 # pratice
-checking pratically
+checking pratically github
