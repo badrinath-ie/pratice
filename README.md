@@ -1,2 +1,2 @@
 # pratice
-checking pratically github
+checking pratically github concepts
